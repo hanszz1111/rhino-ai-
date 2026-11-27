@@ -20,8 +20,15 @@ description: 从草图、参考图和现有机构出发，定义实体产品的�
 3. 用斜视、侧视、背视和高光检查各面是否属于同一造型语言。记录转折是否对应功能、边线是否自洽、视觉层次是否过于集中在单面。
 4. 评审时给出方案取舍、对应视图或截面，以及需要确认的接口或假设。把外观评审、装配几何、供应商确认和样机证据标成各自的状态。
 
+## 造型家族与样机复核
+
+- 主轮廓先确定体量和厚薄，再从正面、侧面、背面找对彼此延续的转折。用少量规则定义大过渡、次过渡和功能断点。把同类边的截面、反射宽度、分缝方向和圆角层级放在同一张对照图中。
+- 对每个候选方案明确需要验证的取舍，例如握持深度与剩余壁厚、低轮廓按键与盲操作、屏幕角度与读数视线。较早用等比例外形样或可操作样件验证受影响的场景，记录样机尺寸、测试动作、观察结果和下一轮变更。
+- 对齐候选模型的参考面和相机，逐条复核不可移动的接口。轮廓或分件一旦调整，重新检查受影响的制造方向和装入路径，再更新方案说明。
+
 ## 参考
 
 - 概念生成与评价方法。 [Engineering Design Skills](https://github.com/cmudrc/engineering-design-skills)
 - 实体产品的设计简报、参考图学习、人因与迭代评审。 [Industrial Product Design with GB/T Handoff](https://github.com/beiming183-cloud/industrial-product-design-gbt)
 - 产品概念到造型、结构空间和 CMF 的分阶段工作方式。 [Claude Product Designer Skill](https://github.com/shawnlix/claude-product-designer-skill)
+- 先评整体体量，再用一致的造型语法组织细节。 [Industrial Design Skill](https://github.com/emirerdo/industrial-design-skill/blob/e643991c18894f47e60046ca06b35ca0c0a702cb/skills/industrial-design/SKILL.md)
